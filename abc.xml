@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/ABC Document">
+    <comment>Document with abc extension</comment>
+    <generic-icon name="x-vnd-abc"/>
+    <glob pattern="*.ABC"/>
+    <glob pattern="*.abc"/>
+  </mime-type>
+</mime-info>
